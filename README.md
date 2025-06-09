@@ -1,6 +1,8 @@
 
 # rmedicine2025
 
+# rmedicine2025 <a href="https://melissavanbussel.github.io/rmedicine2025/"><img src="man/figures/logo.png" align="right" height="120" alt="rmedicine2025 website" /></a>
+
 <!-- badges: start -->
 <!-- badges: end -->
 
